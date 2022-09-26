@@ -204,10 +204,9 @@ header {
     }
 
     .main-head {
-        font-size: large;
         font-weight: 700;
         border-radius: 20%;
-        background: #000;
+        background: #e7f5ff;
         border: 0.1rem solid #c5c6c7;
         margin-left: 20px;
     }
@@ -226,7 +225,7 @@ header {
     }
 
     .navbar h1 {
-        font-size: 5vmin;
+        font-size: 6vmin;
     }
 
     .header-content h1 {
